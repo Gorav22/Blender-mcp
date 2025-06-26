@@ -1,5 +1,6 @@
 # BlenderMCP - Blender Model Context Protocol Integration
 
+[![smithery badge](https://smithery.ai/badge/@Gorav22/blender-mcp)](https://smithery.ai/server/@Gorav22/blender-mcp)
 <img src="https://socialify.git.ci/Gorav22/Blender-mcp/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Floating+Cogs&stargazers=1&theme=Auto" alt="Blender-mcp" width="100%" height="320" />
 
 for demo video click <a href="https://youtu.be/ubK007tiiwk">here</a>
@@ -56,6 +57,13 @@ Otherwise installation instructions are on their website: [Install uv](https://d
 
 **⚠️ Do not proceed before installing UV**
 
+### Installing via Smithery
+
+To install Blender Integration Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Gorav22/blender-mcp):
+
+```bash
+npx -y @smithery/cli install @Gorav22/blender-mcp --client claude
+```
 
 ### Claude for Desktop Integration
 
